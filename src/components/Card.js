@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Text, View, StyleSheet, Image } from 'react-native'
 import { Card } from 'react-native-elements'
 
-export default class Card extends Component {
+export default class App extends Component {
   render() {
     return (
       <View>
